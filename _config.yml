@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Okke Schrijvers"
+  avatar           : "headshot.png"
+  bio              : "Research Scientist with a focus on Algorithmic Game Theory, Algorithms, and Machine Learning"
   location         : "Menlo Park, CA"
-  employer         :
+  employer         : "Facebook Core Data Science"
   pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=wWaA2QwAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Okke-Schrijvers"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
