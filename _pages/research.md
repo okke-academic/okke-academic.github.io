@@ -4,7 +4,7 @@ title: "Research Overview"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /research
+  - /research/
 ---
 
 Overview of my research.
