@@ -84,7 +84,7 @@ author:
   avatar           : "headshot.png"
   bio              : "Research Scientist with a focus on Algorithmic Game Theory, Algorithms, and Machine Learning"
   location         : "Menlo Park, CA"
-  employer         : "Facebook Core Data Science"
+  employer         : #"Facebook Core Data Science"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wWaA2QwAAAAJ"
   email            :
