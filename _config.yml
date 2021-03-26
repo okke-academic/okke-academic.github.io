@@ -85,7 +85,7 @@ author:
   bio              : "Research Scientist with a focus on Algorithmic Game Theory, Algorithms, and Machine Learning"
   location         : "Menlo Park, CA"
   employer         : "Facebook Core Data Science"
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wWaA2QwAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Okke-Schrijvers"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0002-8927-6876"
+  linkedin         : "https://www.linkedin.com/in/okkeschrijvers/"
+  orcid            : #"http://orcid.org/0000-0002-8927-6876"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
