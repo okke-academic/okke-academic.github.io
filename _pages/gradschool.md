@@ -7,3 +7,4 @@ redirect_from:
   - /gradschool
 ---
 
+Applying to grad shools in the US can be difficult. 
