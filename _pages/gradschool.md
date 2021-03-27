@@ -15,4 +15,4 @@ If you've found the document useful and/or are interested me giving a presentati
 
 **Resources**
 * [**Doing a (computer science) PhD in the United States (as a Dutchman)**](http://okke-academic.github.io/files/usphd.pdf) by Okke Schrijvers
-* "PhD in the United States" by Okke Schrijvers, *University of Groningen periodical* [[pdf](http://okke-academic.github.io/files/SIHB.pdf)]
+* [**PhD in the United States**](http://okke-academic.github.io/files/SIHB.pdf) by Okke Schrijvers, *University of Groningen periodical*
