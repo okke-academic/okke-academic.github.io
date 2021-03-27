@@ -14,5 +14,5 @@ To help other students with their application, I've written down my thoughts and
 If you've found the document useful and/or are interested me giving a presentation about the process, please send me an email!
 
 **Resources**
-* "Doing a (computer science) PhD in the United States (as a Dutchman)" by Okke Schrijvers [[pdf](http://okke-academic.github.io/files/usphd.pdf)]
+* [**Doing a (computer science) PhD in the United States (as a Dutchman)**](http://okke-academic.github.io/files/usphd.pdf) by Okke Schrijvers
 * "PhD in the United States" by Okke Schrijvers, *University of Groningen periodical* [[pdf](http://okke-academic.github.io/files/SIHB.pdf)]
