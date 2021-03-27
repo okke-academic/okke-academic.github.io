@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grad School Applications"
+title: "PhD Applications"
 permalink: /gradschool/
 author_profile: true
 redirect_from:
