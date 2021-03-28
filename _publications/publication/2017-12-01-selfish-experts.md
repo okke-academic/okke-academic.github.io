@@ -6,6 +6,7 @@ excerpt: 'We consider the problem of binary prediction with expert advice in set
 date: 2017-12-01
 venue: 'Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/pdf/1702.03615'
+video: 'https://youtu.be/i-tJzv_n8CA'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
