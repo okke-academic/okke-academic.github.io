@@ -7,7 +7,7 @@ redirect_from:
   - /research
 ---
 
-Overview of my research.
+For a high-level overview of what I work on, check out this recent document on [challenges in online ad marketplaces](http://okke-academic.github.io/files/challenges_ad_markets.pdf) or my [PhD thesis](http://okke-academic.github.io/files/okke_phd_thesis.pdf).
 
 
 ## Ad Auctions in Complex Environments
