@@ -22,7 +22,7 @@ Overview of my research.
 * [**Online Learning for Measuring Incentive Compatibility in Ad Auctions**](). *The Web Conference*, 2019. (with Z. Feng, E. Sodomka)
 * [**Envy, Regret, and Social Welfare Loss**](). *The Web Conference*, 2020. (with R. Colini-Baldeschi, S. Leonardi, E. Sodomka)
 
-## Budget Management
+## Budget Management in Auction Markets
 
 
 * [**Pacing Equilibrium in First-Price Auction Markets**](). *ACM Economics and Computation*, 2019. (with V. Conitzer, C. Kroer, D. Panigrahi, E. Sodomka, N. Stier-Moses, C.A. Wilkens)
