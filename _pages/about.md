@@ -9,3 +9,10 @@ redirect_from:
 ---
 
 New website for my academic work, to see what I work on, check out this recent research overview on [challenges in online ad marketplaces](http://okke-academic.github.io/files/challenges_ad_markets.pdf) or my [PhD thesis](http://okke-academic.github.io/files/okke_phd_thesis.pdf).
+
+
+## News
+
+* Working on a new website.
+
+## Short Bio
