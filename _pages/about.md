@@ -13,6 +13,6 @@ New website for my academic work, to see what I work on, check out this recent r
 
 ## News
 
-* Working on a new website.
+* **2021-03-28**. Working on a new website.
 
 ## Short Bio
