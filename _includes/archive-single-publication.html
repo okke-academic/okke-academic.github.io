@@ -26,7 +26,14 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    {% if post.teaser %}
+    <table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src='image/{{ post.teaser }}'></td> 
+    <td>
+    {% endif %}
+    
+      <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -73,6 +80,12 @@
       {% endif %}
     </p>
     {% endif %}
+    
+    {% if post.teaser %}
+    </td>
+  </tr>
+</table>
+{% endif %}
 <!-- 
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
