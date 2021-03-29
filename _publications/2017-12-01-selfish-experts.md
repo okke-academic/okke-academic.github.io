@@ -7,7 +7,7 @@ date: 2017-12-01
 venue: 'Neural Information Processing Systems'
 paperurl: 'https://arxiv.org/pdf/1702.03615'
 video: 'https://youtu.be/i-tJzv_n8CA'
-poster: 'https://okke-academic.github.io/files/selfish-experts-poster-neurips.pdf'
+poster: 'https://okke-academic.github.io/files/selfish_experts_poster_neurips.pdf'
 ---
 
 
