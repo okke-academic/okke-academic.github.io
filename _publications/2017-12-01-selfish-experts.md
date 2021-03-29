@@ -1,5 +1,6 @@
 ---
 title: "Online Prediction with Selfish Experts"
+teaser: '500x300.png'
 collection: publications
 permalink: /publication/2017-12-01-selfish-experts
 excerpt: 'We consider the problem of binary prediction with expert advice in settings where experts have agency and seek to maximize their credibility.'
