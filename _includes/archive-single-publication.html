@@ -52,7 +52,7 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.paperurl or post.video %}
+    {% if post.paperurl or post.video or post.presentation or post.poster%}
     <p>
       {% if post.paperurl%}
       <a href=" {{ post.paperurl }} "><img src="/images/pdf.png" alt="Download PDF" width="30"></a>
@@ -60,6 +60,16 @@
       
       {% if post.video%}
       <a href=" {{ post.video }} "><img src="/images/video.png" alt="Watch Presentation" width="32"></a>
+      {% endif %}
+      
+      
+      {% if post.poster%}
+      <a href=" {{ post.poster }} "><img src="/images/poster.png" alt="Download Poster" width="32"></a>
+      {% endif %}
+      
+      
+      {% if post.presentation%}
+      <a href=" {{ post.presentation }} "><img src="/images/presentation.png" alt="Download Slides" width="32"></a>
       {% endif %}
     </p>
     {% endif %}
