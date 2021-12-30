@@ -1,5 +1,6 @@
 ---
 title: "Online Prediction with Selfish Experts"
+authors: "T. Roughgarden, O. Schrijvers"
 teaser: '500x300.png'
 collection: publications
 permalink: /publication/2017-12-01-selfish-experts
