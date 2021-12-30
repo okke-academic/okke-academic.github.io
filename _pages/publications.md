@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  1. {{ post.title }}
+  1. {{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}
 {% endfor %}
 
 <!---
