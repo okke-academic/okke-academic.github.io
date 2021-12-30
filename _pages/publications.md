@@ -9,7 +9,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   <li> <b>{{ post.title }}</b>,
        {% if post.authors %}{{ post.authors }},{{ %endif }}
-       <i>{{ post.short_venue }}</i>n</li>
+       <i>{{ post.shortvenue }}</i>. 
+    {% if post.paperurl %}<a href='{{ post.paperurl }}'>[paper]</a> {{ %endif }}
+    {% if post.video %}<a href='{{ post.video }}'>[video]</a> {{ %endif }} </li>
 {% endfor %}
 </ul>
 
