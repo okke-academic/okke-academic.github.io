@@ -12,8 +12,8 @@ author_profile: true
   <li> <b>{{ post.title }}</b>,<br>
        {% if post.authors %}{{ post.authors }},{% endif %}
        <i>{% if post.shortvenue %}{{ post.shortvenue }}{% else %} working paper{% endif %}</i>.<br>
-    {% if post.paperurl %}<a href='{{ post.paperurl }}' target="_blank" rel="noopener noreferrer">[paper]</a> {% endif %}
-    {% if post.video and post.video != ""%}<a href='{{ post.video }}' target="_blank" rel="noopener noreferrer">[video]</a> {% endif %} </li>
+    {% if post.paperurl and post.paperurl != "" %}<a href='{{ post.paperurl }}' target='_blank'>[paper]</a> {% endif %}
+    {% if post.video and post.video != ""%}<a href='{{ post.video }}' target='_blank' >[video]</a> {% endif %} </li>
 {% endfor %}
 </ul>
 
