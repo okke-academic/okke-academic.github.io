@@ -1,6 +1,6 @@
 ---
 title: "Envy, Regret, and Social Welfare Loss"
-authors: "R. Colini-Baldeschi, J. Mestre, O. Schrijvers, C.A. Wilkens"
+authors: "R. Colini-Baldeschi, S. Leonardi, O. Schrijvers, E. Sodomka"
 collection: publications
 permalink: /publication/2020-04-01-envy-regret
 excerpt: ''
