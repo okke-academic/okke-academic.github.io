@@ -5,6 +5,7 @@ permalink: /publication/2021-04-01-bandits-pacing
 excerpt: '.'
 date: 2021-04-01
 venue: 'The Web Conference'
+shortvenue: "WWW '21"
 paperurl: 'https://arxiv.org/pdf/2103.10246.pdf'
 video: 'https://www.youtube.com/watch?v=5u9j3BxtoAU'
 ---
