@@ -11,7 +11,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   <li> <b>{{ post.title }}</b>,<br>
        {% if post.authors %}{{ post.authors }},{% endif %}
-       <i>{% if post.shortvenue %}{{ post.shortvenue }}{% else %} working paper{% endif %}</i>. 
+       <i>{% if post.shortvenue %}{{ post.shortvenue }}{% else %} working paper{% endif %}</i>.<br>
     {% if post.paperurl %}<a href='{{ post.paperurl }}'>[paper]</a> {% endif %}
     {% if post.video and post.video != ""%}<a href='{{ post.video }}'>[video]</a> {% endif %} </li>
 {% endfor %}
