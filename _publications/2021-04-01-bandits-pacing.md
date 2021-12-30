@@ -1,5 +1,6 @@
 ---
 title: "Stochastic Bandits for Multi-platform Budget Optimization in Online Advertising"
+authors: "V. Avadhanula, R. Colini-Baldeschi, S. Leonardi, K. Abinav Sankararaman, O. Schrijvers"
 collection: publications
 permalink: /publication/2021-04-01-bandits-pacing
 excerpt: '.'
