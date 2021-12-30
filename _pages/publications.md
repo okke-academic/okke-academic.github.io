@@ -5,19 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-<ol>
+<ul>
 {% for post in site.publications reversed %}
-  <li><b>{{ post.title  | remove: "<p>" | remove: "</p>" }}</b></li>
+  <li> <b>{{ post.title }}</b>,
+       {% if post.authors %}{{ post.authors }},{{ %endif }}
+       <i>{{ post.short_venue }}</i>n</li>
 {% endfor %}
-</ol>
-
-
-
-<ol>
-{% for post in site.publications reversed %}
-  <li><b>{{ post.title }}</b>, {{ post.authors }}, <i>{{ post.venue }} {{ post.year }}<i></li>
-{% endfor %}
-</ol>
+</ul>
 
 
 <!---
