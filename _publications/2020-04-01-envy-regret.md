@@ -1,10 +1,12 @@
 ---
 title: "Envy, Regret, and Social Welfare Loss"
+authors: "R. Colini-Baldeschi, J. Mestre, O. Schrijvers, C.A. Wilkens"
 collection: publications
 permalink: /publication/2020-04-01-envy-regret
 excerpt: ''
 date: 2020-04-01
 venue: 'The Web Conference'
+shortvenue: "WWW '20"
 paperurl: 'https://arxiv.org/pdf/1907.07721'
 video: ''
 ---
