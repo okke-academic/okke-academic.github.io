@@ -5,24 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-Try 1
-{% for post in site.publications reversed %}
-  1. {{ post.title  | remove: "<p>" | remove: "</p>" }}
-{% endfor %}
-
-Try 2
 <ol>
 {% for post in site.publications reversed %}
-  <li>{{ post.title  | remove: "<p>" | remove: "</p>" }}</li>
+  <li><b>{{ post.title  | remove: "<p>" | remove: "</p>" }}</b></li>
 {% endfor %}
 </ol>
 
 
-Try 3
+
 <ol>
 {% for post in site.publications reversed %}
-  <li>{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+  <li><b>{{ post.title }}</b>, {{ post.authors }}, <i>{{ post.venue }} {{ post.year }}<i></li>
 {% endfor %}
 </ol>
 
