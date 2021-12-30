@@ -13,7 +13,7 @@ author_profile: true
        {% if post.authors %}{{ post.authors }},{% endif %}
        <i>{% if post.shortvenue %}{{ post.shortvenue }} {% else %} working paper {% endif %}</i>. 
     {% if post.paperurl %}<a href='{{ post.paperurl }}'>[paper]</a> {% endif %}
-    {% if post.video %}<a href='{{ post.video }}'>[video]</a> {% endif %} </li>
+    {% if post.video and post.video != ""%}<a href='{{ post.video }}'>[video]</a> {% endif %} </li>
 {% endfor %}
 </ul>
 
