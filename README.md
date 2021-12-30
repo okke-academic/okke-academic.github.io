@@ -1,1 +1,1 @@
-New website for my academic work, to see what I work on, check out this recent research overview on [challenges in ad markets](http://okke_academic.github.io/files/challenges_ad_markets.pdf) or my [PhD thesis](http://okke_academic.github.io/files/okke_phd_thesis.pdf).
+New website for my academic work. To see what I work on, check out this recent research overview on [challenges in ad markets](http://okke_academic.github.io/files/challenges_ad_markets.pdf) or my [PhD thesis](http://okke_academic.github.io/files/okke_phd_thesis.pdf).
