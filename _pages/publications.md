@@ -9,7 +9,7 @@ author_profile: true
 
 <ul>
 {% for post in site.publications reversed %}
-  <li> <b>{{ post.title }}</b>,
+  <li> <b>{{ post.title }}</b>,<br>
        {% if post.authors %}{{ post.authors }},{% endif %}
        <i>{% if post.shortvenue %}{{ post.shortvenue }}{% else %} working paper{% endif %}</i>. 
     {% if post.paperurl %}<a href='{{ post.paperurl }}'>[paper]</a> {% endif %}
