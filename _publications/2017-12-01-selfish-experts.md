@@ -7,6 +7,7 @@ permalink: /publication/2017-12-01-selfish-experts
 excerpt: 'We consider the problem of binary prediction with expert advice in settings where experts have agency and seek to maximize their credibility.'
 date: 2017-12-01
 venue: 'Neural Information Processing Systems'
+shortvenue: "NeurIPS '17"
 paperurl: 'https://arxiv.org/pdf/1702.03615'
 video: 'https://youtu.be/i-tJzv_n8CA'
 poster: 'https://okke-academic.github.io/files/selfish_experts_poster_neurips.pdf'
