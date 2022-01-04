@@ -16,6 +16,6 @@ New website for my academic work. To see what I work on, check out this recent r
 * **2021-12-30**. Launched a new website.
 
 ## Short Bio
-Okke Schrijvers is a Research Scientist in the Core Data Science group at Meta. He obtained his PhD in Computer Science from Stanford University, where his advisor was Tim Roughgarden. From January 2016 to December 2017 he was co-Editor in Chief of ACM's student publication XRDS.
+Okke Schrijvers is a Research Scientist in the Core Data Science group at Meta. He obtained his PhD in Computer Science from Stanford University where his advisor was [Tim Roughgarden](https://www.timroughgarden.org/). From January 2016 to December 2017 he was co-Editor in Chief of ACM's student publication XRDS.
 
-Okke received his Master's Degree in Computer Science with honors from Eindhoven University of Technology in 2012 and his Bachelor's Degree in Computer Science with honors from Hanze University of Applied Sciences, Groningen in 2008. Prior to focusing on algorithm design, Okke was a video game programmer and worked on the PS3 game [Eye-Pet](https://en.wikipedia.org/wiki/EyePet), an Augmented Reality game that sold over 1 million copies.
+Okke received his Master's Degree in Computer Science with honors from Eindhoven University of Technology in 2012 and his Bachelor's Degree in Computer Science with honors from Hanze University of Applied Sciences Groningen in 2008. Before getting his Master's degree, Okke was a video game programmer and worked on the PS3 game [Eye-Pet](https://en.wikipedia.org/wiki/EyePet), an augmented reality game that sold over 1 million copies.
