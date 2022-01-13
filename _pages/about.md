@@ -12,7 +12,7 @@ New website for my academic work. To see what I work on, check out this recent r
 
 
 ## News
-
+* **2022-01-13**. "Equilibria in Auctions with Ad Types" (joint with Hadi Elzayn, Riccardo Colini-Baldeschi and Brian Lan) was accepted at WWW'22. 
 * **2021-12-30**. Launched a new website.
 
 ## Short Bio
