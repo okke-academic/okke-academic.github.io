@@ -13,9 +13,7 @@ For a high-level overview of what I work on, check out this recent document on [
 ## Ad Auctions in Complex Environments
 
 * [**The Ad Types Problem**](). *Web and Internet Economics*, 2020. (with R. Colini-Baldeschi, J. Mestre, C.A. Wilkens)
-* [**Equilibria in Auctions with Ad Types**](). *forthcoming*, 2021. (with H. Elzayn, R. Colini-Baldeschi, B. Lan)
-
-
+* [**Equilibria in Auctions with Ad Types**](). *The Web Conference*, 2022. (with H. Elzayn, R. Colini-Baldeschi, B. Lan)
 * [**Algorithmic Cartography: Placing Points of Interest and Ads on Maps**](). *ACM Knowledge and Discovery and Data Mining*, 2015. (with M. Mahdian, S. Vassilvitskii)
 
 ### Measuring IC
@@ -26,6 +24,7 @@ For a high-level overview of what I work on, check out this recent document on [
 
 
 * [**Pacing Equilibrium in First-Price Auction Markets**](). *ACM Economics and Computation*, 2019. (with V. Conitzer, C. Kroer, D. Panigrahi, E. Sodomka, N. Stier-Moses, C.A. Wilkens)
+* [**Optimal Spend Rate Estimation and Pacing for Ad Campaigns with Budgets**](). *forthcoming*. (with B. Kumar, J. Morgenstern)
 * [**Stochastic Bandits for Multi-platform Budget Optimization in Online Advertising**](). *The Web Conference*, 2021. (with V. Avadhanula, R. Colini-Baldeschi, S. Leonardi, K. Abinav Sankararaman)
 
 
@@ -33,22 +32,16 @@ For a high-level overview of what I work on, check out this recent document on [
 
 
 * [**Online Prediction with Selfish Experts**](). *Neural Information Processing Systems*, 2017. (with T. Roughgarden)
-
-
 * [**Incentive Compatibility of Bitcoin Mining Pool Reward Functions**]() *Financial Cryptography and Data Security*, 2016. (with J. Bonneau, D. Boneh, T. Roughgarden)
 
 
 ## Learning from Samples
 
 * [**Ironing in the Dark**](). *ACM Economics and Computation*, 2016. (with T. Roughgarden)
-
-
 * [**Inverse Game Theory: Learning Utilities in Succinct Games**]() *Web and Internet Economics*, 2015. (with V. Kuleshov)
 
 ## Algorithms
 
 
 * [**Robust Random Cut Forest Based Anomaly Detection On Streams**](). *International Conference on Machine Learning*, 2016. (with S. Guha, N. Mishra, R. Gourav)
-
-
 * [**Vertex Deletion for 3D Delaunay Triangulations**]() *European Symposium on Algorithms*, 2013. (with K. Buchin, O. Devillers, W. Mulzer, J. Shewchuk)
