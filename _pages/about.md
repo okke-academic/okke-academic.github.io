@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a manager at Meta, Central Applied Science, where my team developes state-of-the-art causal inference methods and market algorithms. For an overview of my own technical work (slightly outdated), see this research overview on [challenges in online ad marketplaces](http://okke-academic.github.io/files/challenges_ad_markets.pdf) or my [PhD thesis](http://okke-academic.github.io/files/okke_phd_thesis.pdf).
+I'm a manager at Meta, Central Applied Science, where my team developes state-of-the-art causal inference methods and market algorithms. For a (slightly outdated) overview of my technical work see this research overview on [challenges in online ad marketplaces](http://okke-academic.github.io/files/challenges_ad_markets.pdf) or my [PhD thesis](http://okke-academic.github.io/files/okke_phd_thesis.pdf).
 
 
 ## News
