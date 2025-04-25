@@ -7,6 +7,6 @@ excerpt: ''
 date: 2023-02-01
 venue: ''
 shortvenue: 
-paperurl: 
+paperurl: "https://arxiv.org/pdf/2202.05881.pdf"
 video: 
 ---
