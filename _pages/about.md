@@ -16,7 +16,6 @@ I'm a Sr Manager in the Science org at Uber leading a team that develops state-o
 * **2025-04-02**. I'm on the organizing committee of the EC'25 workshop on [Frontiers in Online Advertising](https://sites.google.com/view/ec25-ad-workshop) to be held on July 10 at Stanford.
 * **2025-03-12** Our paper "Interference Among First-Price Pacing Equilibria" was accepted at ICLR'25.
 * **2025-02-01**. I served as an Econ Area Chair for TheWebConf'25.
-* **2024-11-06**. My team [presented 4 papers]([https://www.linkedin.com/pulse/metas-central-applied-science-team-codemit-okke-schrijvers-wregc/](https://www.linkedin.com/pulse/metas-central-applied-science-team-codemit-2024-okke-schrijvers-dv2yc/)) at the CODE@MIT conference. 
 
 ## Short Bio
 Okke Schrijvers is a Sr Manager in the Science org at Uber, leading the Ads Delivery and Optimization team. Previously he spend 9 years at the [Central Applied Science](https://research.facebook.com/teams/cas/) team at Meta, where he led Experimentation and Market Algorithms. He obtained his PhD in Computer Science from Stanford University in 2017 where his advisor was [Tim Roughgarden](https://www.timroughgarden.org/) and he served as co-Editor in Chief of ACM's student publication [XRDS](https://xrds.acm.org/) for 2 years.
